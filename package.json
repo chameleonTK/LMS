@@ -1,0 +1,19 @@
+{
+  "name": "lms",
+  "version": "1.0.0",
+  "description": "Scraped contents from V1 - V57(on going) and put into an easier-to-read template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "ecstatic": "^3.3.2",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11",
+    "http": "0.0.0"
+  }
+}
